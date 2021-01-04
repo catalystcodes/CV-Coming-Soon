@@ -6,10 +6,10 @@ body {}
     background-position: center;
     background-size: cover;
     height: 26rem;
-    width: 40rem;
+    width: 35rem;
     margin: 3rem auto;
     border-radius: 8px;
-    box-shadow: 2px 9px 9px 7px #84898f;
+    box-shadow: 2px 5px 9px 7px #84898f;
 }
 
 .navbar {
@@ -22,7 +22,7 @@ body {}
     height: 2.5rem;
     width: 7.5rem;
     margin-left: 2rem;
-    margin-right: 19rem;
+    margin-right: 14rem;
 }
 
 .p1 {
@@ -41,7 +41,6 @@ body {}
     width: 15rem;
     height: 2rem;
     color: white;
-    /* color: #ced1d3; */
     font-weight: bolder;
     font-size: xx-large;
 }
@@ -50,7 +49,6 @@ body {}
     color: white;
     font-size: larger;
     font-family: sans-serif;
-    /* margin: auto; */
 }
 
 .words {
