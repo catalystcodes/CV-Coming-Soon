@@ -1,6 +1,4 @@
-body {
-    font-family: sans-serif;
-}
+body {}
 
 .container {
     background-color: #84898f;
@@ -32,5 +30,39 @@ body {
 }
 
 .sub-navbar {
+    font-family: sans-serif;
     display: flex;
+}
+
+.h1 {
+    margin: 5rem auto;
+    width: 15rem;
+    height: 2rem;
+    color: white;
+    /* color: #ced1d3; */
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.p2 {
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    /* margin: auto; */
+}
+
+.words {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.5rem;
+    margin-top: -3rem;
+}
+
+.p3 {
+    margin-top: 1rem;
+    margin-left: 14rem;
+    font-family: sans-serif;
+    color: white;
+    font-size: small;
 }
