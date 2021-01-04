@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #84898f;
+    background-image: url(../media/background\ 1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 30rem;
+    width: 50rem;
+    margin: 3rem auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.img1 {
+    height: 2.5rem;
+    width: 7.5rem;
+    margin-left: 2rem;
+    margin-right: 29rem;
+}
+
+.p1 {
+    color: #84898f;
+    margin-left: 1rem;
+    font-size: small;
+}
+
+.sub-navbar {
+    display: flex;
+}
