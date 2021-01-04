@@ -9,7 +9,7 @@ body {}
     width: 35rem;
     margin: 3rem auto;
     border-radius: 8px;
-    box-shadow: 2px 5px 9px 7px #84898f;
+    box-shadow: 1px 1px 9px 3.5px #84898f;
 }
 
 .navbar {
